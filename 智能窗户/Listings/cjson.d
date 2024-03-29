@@ -1,0 +1,10 @@
+.\listings\cjson.o: cJSON.c
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\math.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\limits.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\float.h
+.\listings\cjson.o: cJSON.h
+.\listings\cjson.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
